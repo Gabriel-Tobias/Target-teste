@@ -155,4 +155,3 @@ function calcularFaturamento(vetorFaturamento) {
     console.log(`Maior valor de faturamento: ${maiorValor}`);
     console.log(`Número de dias com faturamento acima da média: ${countDiasAcimaDaMedia}`);
   }
-console.log(calcularFaturamento(FaturamentoMensal));
